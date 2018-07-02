@@ -1,0 +1,1 @@
+This device uses two servos to duplicate a perfect run recorded by user and play back via two servo motors.
